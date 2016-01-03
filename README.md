@@ -1,1 +1,35 @@
-# Mark-5b
+<!DOCTYPE html>
+<script type="text/javascript" src="script.js"></script>
+<html>
+<head>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">santa maria degli angeli</p>
+			<a href="mailto:you@yourdomain.com"><p id="email">hoofdpagina</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>De Santa Degli Angeli</h4>
+			<img src="http://images.travelpod.com/tw_slides/ta00/a79/970/basilica-di-santa-maria-degli-angeli-santa-maria-degli-angeli.jpg"/>
+			
+			<h4>Geschiedenis</h4>
+			<p>Na de dood van Sint Franciscus in 1226, bouwden de monniken verschillende kleine gebouwtjes rondom de Portiuncula. In 1230 werden er nog enkele aan toegevoegd, waaronder een refter (eethuis). In de loop van de tijd kwamen daar nog kleine zuilengangen en voorzieningen voor de monniken bij. Enkele funderingen van deze bouwwerken werden ontdekt tijdens de opgravingen die tussen 1967 en 1969 plaatsvonden onder de vloer van de huidige basiliek.</p>
+
+<p>Vanwege de grote toestroom van pelgrims naar Assisi om daar de "Genade van Assisi" te ontvangen, de zogenaamde Portiuncula-aflaat, werd de ruimte van de kapel al gauw te klein om alle bezoekers te kunnen herbergen. De behoefte ontstond aan een veel grotere kerk die de kleinere kapel in zich zou kunnen opnemen. De omringende gebouwen werden op last van Paus Pius V afgebroken, behalve de Transito-Kapel: de plaats waar Sint Franciscus was gestorven. Met de bouw van de basiliek werd op 25 maart 1569 een begin gemaakt.</p>
+			
+			<h4>Beschrijving</h4>
+			<p>De basiliek heeft een rechthoekige plattegrond, verdeeld over een centraal kerkschip en twee zijbeuken die geflankeerd worden door tien zijkapellen, met aan het uiteinde een transept en een lang koor in een halfronde apsis die vanaf de grond is opgebouwd. De Portiuncula is recht onder de koepel gesitueerd. De kerk is 126 m lang, 65 m breed en de koepel is 75 m hoog.</p>
+			<p>Het interieur is eenvoudig maar elegant. Het vertoont slechts weinig decoratie, in tegenstelling tot de zijkapellen. Het kerkschip en de zijbeuken werden herbouwd in een neoclassicistische, Dorische stijl door Luigi Poletti. In de apsis bevinden zich het hoogwaardige houten koor met houtsnijwerk van de franciscaner monniken uit 1689, de pauselijke katheder met bas-reliëfs van E. Manfrini, en het pauselijke altaar. De Transito-kapel, de cel waarin Sint Franciscus stierf, is bewaard gebleven. Het is geplaatst in een nis van het koor, tegen de zuilen van de koepel aan de rechterzijde.</p>
+		
+			
+		</div>
+		<div id="footer">
+		
+		</div>
+	</body>
+</html>
